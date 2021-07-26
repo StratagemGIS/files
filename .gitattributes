@@ -1,1 +1,2 @@
 altum_sample_cropped.tif filter=lfs diff=lfs merge=lfs -text
+Canadian[[:space:]]Provinces.zip filter=lfs diff=lfs merge=lfs -text
